@@ -1,0 +1,4 @@
+name: PlayFull_AccountHandler
+author: Zentae
+version: 0.4.2
+main: io.zentae.accounthandler.AccountHandler
