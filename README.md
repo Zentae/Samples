@@ -1,2 +1,12 @@
-# Samples
-Those plugins are samples of what i can make. Some plugin where requested by a customer and i got paid for them. Some are plugins from a server that i made. I made a lot plugins but a big part is private and i'm not allowed to give them…
+# Groups
+
+### Description
+*Ce plugin regroupe tout les fonctionnalités d'un plugin de groupes, lancement matchmaking, chat de group etc…*
+
+### Plugins
+
+*Ce plugin nécessite les libraires suivantes*
+
+| Plugin/Lib | VERSION |
+| ------ | ------ |
+| Bungeecord | 1.8 - 1.14.4 |
