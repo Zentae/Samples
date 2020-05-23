@@ -1,0 +1,22 @@
+# Permet de changer le préfix du plugin…
+hammer_prefix: "&8(&6&lThunderFight&8)"
+
+# Permet de changer le nombre d'usages d'un marteau (-1 = infini)
+hammer_usages: 5
+
+# Permet d'appliquer oui ou non la brillance sur les marteaux… (true | false)
+hammer_isenchanted: true
+
+# Permet de modifier la permission permettant l'accès à la commande des marteaux
+hammer_permission: "inedit.admin"
+
+# Permet de changer le nom des marteaux
+hammer_name: "&e&lHammer &a3x3"
+
+# Permet de changer la description des marteaux…
+# --> %hammer_usages% = Nombre d'usage(s) restant du marteau…
+hammer_lore:
+  - " "
+  - "&7» &ePermet de &6miner &een 3x3"
+  - "&7» &eUtilisation(s): &6%hammer_usages%"
+  - " "

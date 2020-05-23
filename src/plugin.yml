@@ -1,0 +1,10 @@
+name: ThunderFight_Hammer
+author: Zentae
+version: 1.0.0
+main: io.zentae.hammer.H
+depend:
+  - Factions
+commands:
+  hammer:
+    description: Cette commande vous permet de donner des marteaux aux joueurs
+    aliases: [marteau, marteaux]
