@@ -1,0 +1,7 @@
+name: PlayFull_Groups
+author: Zentae
+version: 0.7.17
+main: io.zentae.groups.Groups
+commands:
+  group:
+    description: Main command of Groups plugin...
