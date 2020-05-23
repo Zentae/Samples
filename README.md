@@ -1,2 +1,12 @@
-# Samples
-Those plugins are samples of what i can make. Some plugin where requested by a customer and i got paid for them. Some are plugins from a server that i made. I made a lot plugins but a big part is private and i can't give them…
+# AccountHandler
+
+### Description
+*Ce plugin permet une gestion des comptes, pour un serveur mini-jeux. Il gère les comptes depuis une ```BDD (MySQL)``` et ```Redis```*
+
+### Plugins
+
+*Ce plugin nécessite les libraires suivantes*
+
+| Plugin/Lib | VERSION |
+| ------ | ------ |
+| Bungeecord | 1.8 - 1.14.4  |
