@@ -22,7 +22,7 @@ public class AccountHandler extends Plugin {
 
     private final String JEDIS_HOST = "127.0.0.1";
     private final int JEDIS_PORT = 6379;
-    //private String JEDIS_PASS = "7LRiN5KUwtoG";
+    //private String JEDIS_PASS = "GOTCHA";
 
     @Override
     public void onEnable() {
