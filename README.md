@@ -1,2 +1,12 @@
-# Samples
-Those plugins are samples of what i can make. Some plugin where requested by a customer and i got paid for them. Some are plugins from a server that i made. I made a lot plugins but a big part is private and i'm not allowed to give them…
+# Hammer
+
+### Description
+*Ce plugin permet de donner des "marteaux" permettant de creuser du 3x3x1. Ce plugin n'a rien de spécial je vous l'accorde…*
+
+### Plugins
+
+*Ce plugin nécessite les libraires suivantes*
+
+| Plugin/Lib | VERSION |
+| ------ | ------ |
+| Spigot | 1.8.8 |
