@@ -1,7 +1,7 @@
 package io.zentae.accounthandler.databasemanager;
 
 public enum DbManager {
-    PLAYFULL(new DbCredentials("127.0.0.1", "playfull", "*6n\"K5t7-kLv2kSE", "playfull", 5769));
+    PLAYFULL(new DbCredentials("127.0.0.1", "GOTCHA", "GOTCHA", "GOTCHA", 3306));
 
     private final DbAcces dbAcces;
 
